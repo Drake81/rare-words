@@ -1,0 +1,26 @@
+handlers=java.util.logging.FileHandler, java.util.logging.ConsoleHandler
+
+# SEVERE (highest)
+# WARNING
+# INFO
+# CONFIG
+# FINE
+# FINER
+# FINEST
+
+ir2014-gruppe6.level = ALL
+
+java.util.logging.ConsoleHandler.level=SEVERE
+java.util.logging.ConsoleHandler.formatter=java.util.logging.SimpleFormatter
+
+
+# Outputs calculation time and some more info to log + add Stacktraces
+#java.util.logging.FileHandler.level=WARNING
+
+#java.util.logging.FileHandler.level=INFO
+
+# Outputs calculation time to log
+java.util.logging.FileHandler.level=CONFIG
+
+java.util.logging.FileHandler.pattern=logs/ir2014-gruppe6.log
+java.util.logging.FileHandler.formatter=java.util.logging.SimpleFormatter
