@@ -117,7 +117,7 @@ public class ReduceWordlist {
 			} else {
 				//System.out.println("\t\t comit " + frequency_saved + "\t" + count);
 				map.put(frequency_saved, count);
-				log.log(Level.INFO, "({0},{1})", new Object[]{frequency_saved, count});
+				//log.log(Level.INFO, "({0},{1})", new Object[]{frequency_saved, count});
 
 				if (largest_Value < count) {
 					largest_Value = count;

@@ -42,7 +42,7 @@ public class Main {
 
             try {
 
-                log.fine("read configs");
+                log.info("read configs");
                 FileInputStream file =  new FileInputStream("credentials.properties");
                 BufferedInputStream stream = new BufferedInputStream(file);
                 Properties properties = new Properties();
@@ -82,7 +82,10 @@ public class Main {
 
                             if (!currentdatabase.isTableEmpty("sentences")) {
                                 System.out.println("Get sentences from database " + database);
+                                long startTime = System.currentTimeMillis();
                                 sentenceList = currentdatabase.getSentences();
+                                long endTime = System.currentTimeMillis();
+                                log.info("Get sentences and sentence preprocessing took " + (endTime-startTime) + " ms.");
                             } else {
                                 System.out.println("Database " + database + " has no entries in table sentences - Skipping");
                                 System.exit(1);
@@ -94,13 +97,13 @@ public class Main {
                             long startTime = System.currentTimeMillis();
                             wordcounter = new WordCounter(sentenceList, opt);
                             long endTime = System.currentTimeMillis();
-                            log.config("Word count calculation took " + (endTime-startTime) + " ms.");
+                            log.info("Word count calculation took " + (endTime-startTime) + " ms.");
 
                             System.out.println("Populate word_frequency table in database " + database + ". Be patient...");
                             startTime = System.currentTimeMillis();
                             currentdatabase.insertWordCount(wordcounter.getWordCounts());
                             endTime = System.currentTimeMillis();
-                            log.config("Populating to word_count table took " + (endTime-startTime) + " ms.");
+                            log.info("Populating to word_count table took " + (endTime-startTime) + " ms.");
                         }
 
                         //Build similarity matrix
@@ -128,7 +131,10 @@ public class Main {
                             if(sentenceList == null) {
                                 if (!currentdatabase.isTableEmpty("sentences")) {
                                     System.out.println("Get sentences from database " + database + "\n");
+                                    long startTime = System.currentTimeMillis();
                                     sentenceList = currentdatabase.getSentences();
+                                    long endTime = System.currentTimeMillis();
+                                    log.info("Get sentences and sentence preprocessing took " + (endTime-startTime) + " ms.");
                                 }
                                 else {
                                     System.out.println("Database " + database + " has no table sentences - Skipping");

@@ -153,9 +153,6 @@ public class SimilarityMatrix {
         float avglength = 0.5f * (s1_length + s2_length);
         float avgwordcount = 0.5f * (s1_words + s2_words);
 
-
-        // very simple algorithm.
-        //inaccurate when a matching word occurs more than once in a sentence.
         int match_length = 0;
         int matched_wordcount = 0;
 
@@ -177,14 +174,14 @@ public class SimilarityMatrix {
 
         sim = 0.5f*(((float)matched_wordcount/avgwordcount) + ((float)match_length / avglength));
 
-        if(sim > opt.getSimilarityThreshold()) {
+        /*if(sim > opt.getSimilarityThreshold()) {
             log.info("\t" + matched_wordcount + " / " +
                      "(" + s1_words + ">avg<" + s2_words + ")-> " + avgwordcount +
                      "   +   " + match_length + " / " +
                      "(" + s1_length + ">avg<" + s2_length + ")-> " + avglength +
                      "\t\t = " + sim +
                      "\t\t(" + s1.getId() + "|" + s2.getId() + ")");
-        }
+        }*/
         return sim;
     }
 

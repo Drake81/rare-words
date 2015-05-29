@@ -400,6 +400,9 @@ public class SqlObject {
             this.connect();
         }
         preparedStatement.executeBatch();
+        if(this.connect.isClosed()){
+            this.connect();
+        }
         this.connect.commit();
         this.connect.setAutoCommit(true);
     }
@@ -437,6 +440,9 @@ public class SqlObject {
         }
         preparedStatement.executeBatch();
         this.connect.commit();
+        if(this.connect.isClosed()){
+            this.connect();
+        }
         this.connect.setAutoCommit(true);
     }
 

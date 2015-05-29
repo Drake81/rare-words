@@ -97,10 +97,17 @@ public class WordCounter {
     private void countWords(Sentence sentence) {
 
         for (int i = 1; i < sentence.size(); i++) {
+            String word = sentence.get(i);
+
+            // If Word longer then 70 chars - skip word
+            if(word.length() > 69) {
+                continue;
+            }
+
             if(opt.isOnlyNouns()) {
                 try {
                     // TODO More fixing...
-                    if(!(Character.isUpperCase(sentence.get(i).codePointAt(0)))) {
+                    if(!(Character.isUpperCase(word.codePointAt(0)))) {
                         continue;
                     }
                 }
@@ -114,12 +121,12 @@ public class WordCounter {
                 }
             }
 
-            if (wordList.containsKey(sentence.get(i))) {
-                long count = wordList.get(sentence.get(i));
-                wordList.put(sentence.get(i), ++count );
+            if (wordList.containsKey(word)) {
+                long count = wordList.get(word);
+                wordList.put(word, ++count );
             }
             else {
-                wordList.put(sentence.get(i), 1L);
+                wordList.put(word, 1L);
                 //log.log(Level.INFO, "Word \"{0}\" added", sentence.get(i));
                 wordCount++;
             }
