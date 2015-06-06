@@ -65,7 +65,7 @@ public class SqlObject {
      *
      * @throws SQLException Thrown, if driver is not found or database connection failed
      */
-    private void connect() throws SQLException{
+    public void connect() throws SQLException{
         try {
             Class.forName("com.mysql.jdbc.Driver");
         } catch (ClassNotFoundException e) {
@@ -259,7 +259,9 @@ public class SqlObject {
         String query = "SELECT s_id, sentence FROM sentences limit " + limit;
         ResultSet result =  statement.executeQuery(query);
         System.out.println("Preprocessing Sentences");
-        return new SentenceList(result, opt);
+        SentenceList sentenceList = new SentenceList(result, opt);
+        result.close();
+        return sentenceList;
     }
 
     /**
@@ -280,7 +282,9 @@ public class SqlObject {
         ResultSet result =  statement.executeQuery(query);
 
         System.out.println("Preprocessing Sentences");
-        return new SentenceList(result, opt);
+        SentenceList sentenceList = new SentenceList(result, opt);
+        result.close();
+        return sentenceList;
     }
 
     /**
@@ -301,7 +305,9 @@ public class SqlObject {
         String query = "SELECT sentence FROM sentences WHERE s_id = " + sentenceId;
         ResultSet result =  statement.executeQuery(query);
         result.first();
-        return result.getString("sentence");
+        String r = result.getString("sentence");
+        result.close();
+        return r;
     }
 
     /**
@@ -325,7 +331,9 @@ public class SqlObject {
         ResultSet resultSet = statement.executeQuery(query);
 
         resultSet.next();
-        return resultSet.getInt("count(*)") <= 0;
+        boolean empty = resultSet.getInt("count(*)") <= 0;
+        resultSet.close();
+        return empty;
     }
 
     /**
@@ -438,11 +446,12 @@ public class SqlObject {
         if(this.connect.isClosed()){
             this.connect();
         }
+
         preparedStatement.executeBatch();
-        this.connect.commit();
         if(this.connect.isClosed()){
             this.connect();
         }
+        this.connect.commit();
         this.connect.setAutoCommit(true);
     }
 

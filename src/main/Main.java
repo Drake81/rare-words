@@ -76,6 +76,7 @@ public class Main {
 
 
                         currentdatabase.prepare();
+                        currentdatabase.close();
 
                         if (opt.isUpdateWordCounts()) {
                             System.out.println();
@@ -83,7 +84,9 @@ public class Main {
                             if (!currentdatabase.isTableEmpty("sentences")) {
                                 System.out.println("Get sentences from database " + database);
                                 long startTime = System.currentTimeMillis();
+                                currentdatabase.connect();
                                 sentenceList = currentdatabase.getSentences();
+                                currentdatabase.close();
                                 long endTime = System.currentTimeMillis();
                                 log.info("Get sentences and sentence preprocessing took " + (endTime-startTime) + " ms.");
                             } else {
@@ -92,7 +95,9 @@ public class Main {
                             }
                             if (!currentdatabase.isTableEmpty("word_frequency")) {
                                 System.out.println("Cleaning word_frequency table in database " + database);
+                                currentdatabase.connect();
                                 currentdatabase.cleanTable("word_frequency");
+                                currentdatabase.close();
                             }
                             long startTime = System.currentTimeMillis();
                             wordcounter = new WordCounter(sentenceList, opt);
@@ -101,7 +106,9 @@ public class Main {
 
                             System.out.println("Populate word_frequency table in database " + database + ". Be patient...");
                             startTime = System.currentTimeMillis();
+                            currentdatabase.connect();
                             currentdatabase.insertWordCount(wordcounter.getWordCounts());
+                            currentdatabase.close();
                             endTime = System.currentTimeMillis();
                             log.info("Populating to word_count table took " + (endTime-startTime) + " ms.");
                         }
@@ -113,6 +120,7 @@ public class Main {
                             // reduce word list
                             if (!currentdatabase.isTableEmpty("word_frequency")) {
                                 long startTime = System.currentTimeMillis();
+                                currentdatabase.connect();
                                 if (opt.isPercent()) {
                                     System.out.println("Reduce word list to " + opt.getPercentValue());
                                     wordlist = ReduceWordlist.confidenceFunction(currentdatabase, opt.getPercentValue());
@@ -120,6 +128,7 @@ public class Main {
                                     System.out.println("Reduce word list by frequency. Low:" + opt.getLowerLimit() + " High:" + opt.getHigherLimit());
                                     wordlist = ReduceWordlist.absoluteValues(currentdatabase, opt.getLowerLimit(), opt.getHigherLimit());
                                 }
+                                currentdatabase.close();
                                 long endTime = System.currentTimeMillis();
                                 log.info("Reduce to rare words took " + (endTime-startTime) + " ms.");
                             } else {
@@ -132,7 +141,9 @@ public class Main {
                                 if (!currentdatabase.isTableEmpty("sentences")) {
                                     System.out.println("Get sentences from database " + database + "\n");
                                     long startTime = System.currentTimeMillis();
+                                    currentdatabase.connect();
                                     sentenceList = currentdatabase.getSentences();
+                                    currentdatabase.close();
                                     long endTime = System.currentTimeMillis();
                                     log.info("Get sentences and sentence preprocessing took " + (endTime-startTime) + " ms.");
                                 }
@@ -145,7 +156,9 @@ public class Main {
                             // clear table
                             if (!currentdatabase.isTableEmpty("sentence_similarity")) {
                                 System.out.println("Cleaning sentence_similarity table in database " + database);
+                                currentdatabase.connect();
                                 currentdatabase.cleanTable("sentence_similarity");
+                                currentdatabase.close();
                             }
 
                             if (opt.isByRange() || opt.isPercent()) {
@@ -163,7 +176,9 @@ public class Main {
                             if(similarityMatrix.getSimilarityMatrix().size() > 0) {
                                 System.out.println("Populate sentence_similarity table in database " + database + ". Be patient...");
                                 startTime = System.currentTimeMillis();
+                                currentdatabase.connect();
                                 currentdatabase.insertSentenceSimilarities(similarityMatrix);
+                                currentdatabase.close();
                                 endTime = System.currentTimeMillis();
                                 log.info("Populating to similarity table took " + (endTime-startTime) + " ms.");
                             }
