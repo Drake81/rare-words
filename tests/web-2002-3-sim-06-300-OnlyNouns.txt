@@ -1,0 +1,301 @@
+similarity	sentence	sentence
+0.96	Erlebnisreise mit Viking KDFlusskreuzfahrt, Kreuzfahrt, Schiffsreise mit Hotelschiff.	Erlebnisreise von Viking KDFlusskreuzfahrt, Schiffsreise, Kreuzfahrt mit Hotelschiff.
+0.96	Erlebnisreise mit Viking KD Kreuzfahrt, Flusskreuzfahrt, Schiffsreise mit Hotelschiff.	Erlebnisreise mit Viking KD Flusskreuzfahrt, Schiffsreise, Kreuzfahrt auf Hotelschiff.
+0.96	Erlebnisreise mit Viking KD Kreuzfahrt, Flusskreuzfahrt, Schiffsreise mit Hotelschiff.	Erlebnisreise von Viking KD Flusskreuzfahrt, Kreuzfahrt, Schiffsreise mit Hotelschiff.
+0.96	Erlebnisreise mit Viking KD Kreuzfahrt, Flusskreuzfahrt, Schiffsreise mit Hotelschiff.	Erlebnisreise von Viking KD Flusskreuzfahrt, Schiffsreise, Kreuzfahrt auf Hotelschiff.
+0.96	Erlebnisreise mit Viking KD Flusskreuzfahrt, Schiffsreise, Kreuzfahrt auf Hotelschiff.	Erlebnisreise von Viking KD Flusskreuzfahrt, Kreuzfahrt, Schiffsreise mit Hotelschiff.
+0.96	Erlebnisreise mit Viking KD Flusskreuzfahrt, Schiffsreise, Kreuzfahrt auf Hotelschiff.	Erlebnisreise von Viking KD Flusskreuzfahrt, Schiffsreise, Kreuzfahrt auf Hotelschiff.
+0.96	Erlebnisreise von Viking KD Flusskreuzfahrt, Kreuzfahrt, Schiffsreise mit Hotelschiff.	Erlebnisreise von Viking KD Flusskreuzfahrt, Schiffsreise, Kreuzfahrt auf Hotelschiff.
+0.958904	Erlebnisreise von Viking KD ] [ Flussreise, Kreuzfahrt, Flusskreuzfahrt auf Hotelschiff.	Erlebnisreise von Viking KD Flussreise, Kreuzfahrt, Flusskreuzfahrt mit Hotelschiff.
+0.958904	Erlebnisreise von Viking KD ] [ Flussreise, Kreuzfahrt, Flusskreuzfahrt auf Hotelschiff.	Erlebnisreise mit Viking KD Flussreise, Kreuzfahrt, Flusskreuzfahrt auf Hotelschiff.
+0.958904	Erlebnisreise von Viking KD Flussreise, Kreuzfahrt, Flusskreuzfahrt mit Hotelschiff.	Erlebnisreise mit Viking KD Flussreise, Kreuzfahrt, Flusskreuzfahrt auf Hotelschiff.
+0.958333	Flussreise von Viking KD Kreuzfahrt, Flusskreuzfahrt, Schiffsreise mit Hotelschiff.	Schiffsreise von Viking KD Flussreise, Flusskreuzfahrt, Kreuzfahrt mit Hotelschiff.
+0.958333	Flussreise von Viking KD Kreuzfahrt, Flusskreuzfahrt, Schiffsreise mit Hotelschiff.	Flussreise von Viking KD Flusskreuzfahrt, Schiffsreise, Kreuzfahrt mit Hotelschiff.
+0.958333	Flussreise von Viking KD Kreuzfahrt, Flusskreuzfahrt, Schiffsreise mit Hotelschiff.	Flussreise von Viking KD ] [ Flusskreuzfahrt, Kreuzfahrt, Schiffsreise auf Hotelschiff.
+0.958333	Flussreise von Viking KD Kreuzfahrt, Flusskreuzfahrt, Schiffsreise mit Hotelschiff.	Flussreise mit Viking KD Flusskreuzfahrt, Schiffsreise, Kreuzfahrt auf Hotelschiff.
+0.958333	Flussreise von Viking KD Kreuzfahrt, Flusskreuzfahrt, Schiffsreise mit Hotelschiff.	Flussreise von Viking KD Kreuzfahrt, Flusskreuzfahrt, Schiffsreise auf Hotelschiff.
+0.958333	Flussreise von Viking KD Kreuzfahrt, Flusskreuzfahrt, Schiffsreise mit Hotelschiff.	Schiffsreise von Viking KD ] [ Flussreise, Kreuzfahrt, Flusskreuzfahrt auf Hotelschiff.
+0.958333	Flussreise von Viking KD Kreuzfahrt, Flusskreuzfahrt, Schiffsreise mit Hotelschiff.	Flussreise von Viking KD Flusskreuzfahrt, Kreuzfahrt, Schiffsreise auf Hotelschiff.
+0.958333	Flussreise von Viking KD Kreuzfahrt, Flusskreuzfahrt, Schiffsreise mit Hotelschiff.	Flussreise mit Viking KD ] [ Kreuzfahrt, Flusskreuzfahrt, Schiffsreise auf Hotelschiff.
+0.958333	Schiffsreise von Viking KD Flussreise, Flusskreuzfahrt, Kreuzfahrt mit Hotelschiff.	Flussreise von Viking KD Flusskreuzfahrt, Schiffsreise, Kreuzfahrt mit Hotelschiff.
+0.958333	Schiffsreise von Viking KD Flussreise, Flusskreuzfahrt, Kreuzfahrt mit Hotelschiff.	Flussreise von Viking KD ] [ Flusskreuzfahrt, Kreuzfahrt, Schiffsreise auf Hotelschiff.
+0.958333	Schiffsreise von Viking KD Flussreise, Flusskreuzfahrt, Kreuzfahrt mit Hotelschiff.	Flussreise mit Viking KD Flusskreuzfahrt, Schiffsreise, Kreuzfahrt auf Hotelschiff.
+0.958333	Schiffsreise von Viking KD Flussreise, Flusskreuzfahrt, Kreuzfahrt mit Hotelschiff.	Flussreise von Viking KD Kreuzfahrt, Flusskreuzfahrt, Schiffsreise auf Hotelschiff.
+0.958333	Schiffsreise von Viking KD Flussreise, Flusskreuzfahrt, Kreuzfahrt mit Hotelschiff.	Schiffsreise von Viking KD ] [ Flussreise, Kreuzfahrt, Flusskreuzfahrt auf Hotelschiff.
+0.958333	Schiffsreise von Viking KD Flussreise, Flusskreuzfahrt, Kreuzfahrt mit Hotelschiff.	Flussreise von Viking KD Flusskreuzfahrt, Kreuzfahrt, Schiffsreise auf Hotelschiff.
+0.958333	Schiffsreise von Viking KD Flussreise, Flusskreuzfahrt, Kreuzfahrt mit Hotelschiff.	Flussreise mit Viking KD ] [ Kreuzfahrt, Flusskreuzfahrt, Schiffsreise auf Hotelschiff.
+0.958333	Flussreise von Viking KD Flusskreuzfahrt, Schiffsreise, Kreuzfahrt mit Hotelschiff.	Flussreise von Viking KD ] [ Flusskreuzfahrt, Kreuzfahrt, Schiffsreise auf Hotelschiff.
+0.958333	Flussreise von Viking KD Flusskreuzfahrt, Schiffsreise, Kreuzfahrt mit Hotelschiff.	Flussreise mit Viking KD Flusskreuzfahrt, Schiffsreise, Kreuzfahrt auf Hotelschiff.
+0.958333	Flussreise von Viking KD Flusskreuzfahrt, Schiffsreise, Kreuzfahrt mit Hotelschiff.	Flussreise von Viking KD Kreuzfahrt, Flusskreuzfahrt, Schiffsreise auf Hotelschiff.
+0.958333	Flussreise von Viking KD Flusskreuzfahrt, Schiffsreise, Kreuzfahrt mit Hotelschiff.	Schiffsreise von Viking KD ] [ Flussreise, Kreuzfahrt, Flusskreuzfahrt auf Hotelschiff.
+0.958333	Flussreise von Viking KD Flusskreuzfahrt, Schiffsreise, Kreuzfahrt mit Hotelschiff.	Flussreise von Viking KD Flusskreuzfahrt, Kreuzfahrt, Schiffsreise auf Hotelschiff.
+0.958333	Flussreise von Viking KD Flusskreuzfahrt, Schiffsreise, Kreuzfahrt mit Hotelschiff.	Flussreise mit Viking KD ] [ Kreuzfahrt, Flusskreuzfahrt, Schiffsreise auf Hotelschiff.
+0.958333	Flussreise von Viking KD ] [ Flusskreuzfahrt, Kreuzfahrt, Schiffsreise auf Hotelschiff.	Flussreise mit Viking KD Flusskreuzfahrt, Schiffsreise, Kreuzfahrt auf Hotelschiff.
+0.958333	Flussreise von Viking KD ] [ Flusskreuzfahrt, Kreuzfahrt, Schiffsreise auf Hotelschiff.	Flussreise von Viking KD Kreuzfahrt, Flusskreuzfahrt, Schiffsreise auf Hotelschiff.
+0.958333	Flussreise von Viking KD ] [ Flusskreuzfahrt, Kreuzfahrt, Schiffsreise auf Hotelschiff.	Schiffsreise von Viking KD ] [ Flussreise, Kreuzfahrt, Flusskreuzfahrt auf Hotelschiff.
+0.958333	Flussreise von Viking KD ] [ Flusskreuzfahrt, Kreuzfahrt, Schiffsreise auf Hotelschiff.	Flussreise von Viking KD Flusskreuzfahrt, Kreuzfahrt, Schiffsreise auf Hotelschiff.
+0.958333	Flussreise von Viking KD ] [ Flusskreuzfahrt, Kreuzfahrt, Schiffsreise auf Hotelschiff.	Flussreise mit Viking KD ] [ Kreuzfahrt, Flusskreuzfahrt, Schiffsreise auf Hotelschiff.
+0.958333	Flussreise mit Viking KD Flusskreuzfahrt, Schiffsreise, Kreuzfahrt auf Hotelschiff.	Flussreise von Viking KD Kreuzfahrt, Flusskreuzfahrt, Schiffsreise auf Hotelschiff.
+0.958333	Flussreise mit Viking KD Flusskreuzfahrt, Schiffsreise, Kreuzfahrt auf Hotelschiff.	Schiffsreise von Viking KD ] [ Flussreise, Kreuzfahrt, Flusskreuzfahrt auf Hotelschiff.
+0.958333	Flussreise mit Viking KD Flusskreuzfahrt, Schiffsreise, Kreuzfahrt auf Hotelschiff.	Flussreise von Viking KD Flusskreuzfahrt, Kreuzfahrt, Schiffsreise auf Hotelschiff.
+0.958333	Flussreise mit Viking KD Flusskreuzfahrt, Schiffsreise, Kreuzfahrt auf Hotelschiff.	Flussreise mit Viking KD ] [ Kreuzfahrt, Flusskreuzfahrt, Schiffsreise auf Hotelschiff.
+0.958333	Flussreise von Viking KD Kreuzfahrt, Flusskreuzfahrt, Schiffsreise auf Hotelschiff.	Schiffsreise von Viking KD ] [ Flussreise, Kreuzfahrt, Flusskreuzfahrt auf Hotelschiff.
+0.958333	Flussreise von Viking KD Kreuzfahrt, Flusskreuzfahrt, Schiffsreise auf Hotelschiff.	Flussreise von Viking KD Flusskreuzfahrt, Kreuzfahrt, Schiffsreise auf Hotelschiff.
+0.958333	Flussreise von Viking KD Kreuzfahrt, Flusskreuzfahrt, Schiffsreise auf Hotelschiff.	Flussreise mit Viking KD ] [ Kreuzfahrt, Flusskreuzfahrt, Schiffsreise auf Hotelschiff.
+0.958333	Schiffsreise von Viking KD ] [ Flussreise, Kreuzfahrt, Flusskreuzfahrt auf Hotelschiff.	Flussreise von Viking KD Flusskreuzfahrt, Kreuzfahrt, Schiffsreise auf Hotelschiff.
+0.958333	Schiffsreise von Viking KD ] [ Flussreise, Kreuzfahrt, Flusskreuzfahrt auf Hotelschiff.	Flussreise mit Viking KD ] [ Kreuzfahrt, Flusskreuzfahrt, Schiffsreise auf Hotelschiff.
+0.958333	Flussreise von Viking KD Flusskreuzfahrt, Kreuzfahrt, Schiffsreise auf Hotelschiff.	Flussreise mit Viking KD ] [ Kreuzfahrt, Flusskreuzfahrt, Schiffsreise auf Hotelschiff.
+0.952381	Der Spielzeugshop für Spielwaren Kinderspielzeug Modellbau Holzspielzeug Babybedarf Bücher Teddys Stofftiere Gesellschaftsspiele Konsolenspiele Holzspielwaren.	Der Spielzeugshop für Spielwaren Kinderspielzeug Modellbau Bücher Teddys Stofftiere Gesellschaftsspiele Holzspielzeug Babybedarf Konsolenspiele Holzspielwaren.
+0.949275	Leasingfonds GmbH & Col. Deutschland 2 KG H.F.S.	Leasingfonds Deutschland 7 KG H.F.S.
+0.939024	Obst, - Gartenbau- und Landespflegeverein "Unteres Kesseltal" Liebe Mitglieder und Gartenfreunde!	Obst, - Gartenbau- und Landespflegeverein "Unteres Kesseltal Liebe Mitglieder und Gartenfreunde!
+0.938944	Der Spielzeugshop für Spielwaren Kinderspielzeug Modellbau Holzspielzeug Babybedarf Bücher Teddys Stofftiere Gesellschaftsspiele Konsolenspiele Holzspielwaren.	Der Spielzeugshop für Spielwaren Kinderspielzeug Modellbau Spielzeug Holzspielzeug Babybedarf Bücher Teddys Stofftiere Gesellschaftsspiele Konsolenspiele Holzspielwaren.
+0.938944	Der Spielzeugshop für Spielwaren Kinderspielzeug Modellbau Spielzeug Holzspielzeug Babybedarf Bücher Teddys Stofftiere Gesellschaftsspiele Konsolenspiele Holzspielwaren.	Der Spielzeugshop für Spielwaren Kinderspielzeug Modellbau Bücher Teddys Stofftiere Gesellschaftsspiele Holzspielzeug Babybedarf Konsolenspiele Holzspielwaren.
+0.9375	Herausgegeben von Nea Weissberg-Bob / Lichtig-Verlag, Berlin 1994.	Herausgegeben von Nea Weissberg-Bob / Lichtig-Verlag, Berlin 1993.
+0.934266	Leasingfonds GmbH & Co. Deutschland 5 KG - Aktuelle Informationen H.F.S.	Leasingfonds Deutschland 7 KG - Aktuelle Informationen H.F.S.
+0.926229	Analysieren von Süss-, Meer- und Teichwasser mit Auswertungsprogramm.	Analysieren von Süß-, Meer- und Teichwasser mit Auswertungsprogramm.
+0.925	Schnetzler), Konrad, Barlecaj, Hagg - Magdic, Römer.	Schnetzler), Konrad, Hagg - Barlecaj - Römer, Magdic.
+0.925	Samstag 12. 20:00 OG-Versammlung Kein Übungsbetrieb Haus Seier Sonntag 13.	Samstag 8. 20:00 OG-Versammlung Kein Übungsbetrieb Haus Seier Sonntag 9.
+0.921875	Klimageräte, Klimatechnik, Kältetechnik und Klimaanlagen der Stulz GmbH.	Kältetechnik, Klimatechnik, Klimaanlagen und Klimageräte der Stulz GmbH.
+0.915663	Erlebnisreise mit Viking KD Kreuzfahrt, Flusskreuzfahrt, Schiffsreise mit Hotelschiff.	Erlebnisreise von Viking KD Flusskreuzfahrt oder Kreuzfahrt, ist eine Schiffsreise auf einem Hotelschiff.
+0.915663	Erlebnisreise mit Viking KD Kreuzfahrt, Flusskreuzfahrt, Schiffsreise mit Hotelschiff.	Erlebnisreise mit Viking KD Kreuzfahrt oder Flusskreuzfahrt, ist eine Schiffsreise auf einem Hotelschiff.
+0.915663	Erlebnisreise mit Viking KD Kreuzfahrt, Flusskreuzfahrt, Schiffsreise mit Hotelschiff.	Erlebnisreise mit Viking KD Flusskreuzfahrt oder Kreuzfahrt, ist eine Schiffsreise auf einem Hotelschiff.
+0.915663	Erlebnisreise von Viking KD Flusskreuzfahrt oder Kreuzfahrt, ist eine Schiffsreise auf einem Hotelschiff.	Erlebnisreise mit Viking KD Flusskreuzfahrt, Schiffsreise, Kreuzfahrt auf Hotelschiff.
+0.915663	Erlebnisreise von Viking KD Flusskreuzfahrt oder Kreuzfahrt, ist eine Schiffsreise auf einem Hotelschiff.	Erlebnisreise von Viking KD Flusskreuzfahrt, Kreuzfahrt, Schiffsreise mit Hotelschiff.
+0.915663	Erlebnisreise von Viking KD Flusskreuzfahrt oder Kreuzfahrt, ist eine Schiffsreise auf einem Hotelschiff.	Erlebnisreise von Viking KD Flusskreuzfahrt, Schiffsreise, Kreuzfahrt auf Hotelschiff.
+0.915663	Erlebnisreise mit Viking KD Flusskreuzfahrt, Schiffsreise, Kreuzfahrt auf Hotelschiff.	Erlebnisreise mit Viking KD Kreuzfahrt oder Flusskreuzfahrt, ist eine Schiffsreise auf einem Hotelschiff.
+0.915663	Erlebnisreise mit Viking KD Flusskreuzfahrt, Schiffsreise, Kreuzfahrt auf Hotelschiff.	Erlebnisreise mit Viking KD Flusskreuzfahrt oder Kreuzfahrt, ist eine Schiffsreise auf einem Hotelschiff.
+0.915663	Erlebnisreise von Viking KD Flusskreuzfahrt, Kreuzfahrt, Schiffsreise mit Hotelschiff.	Erlebnisreise mit Viking KD Kreuzfahrt oder Flusskreuzfahrt, ist eine Schiffsreise auf einem Hotelschiff.
+0.915663	Erlebnisreise von Viking KD Flusskreuzfahrt, Kreuzfahrt, Schiffsreise mit Hotelschiff.	Erlebnisreise mit Viking KD Flusskreuzfahrt oder Kreuzfahrt, ist eine Schiffsreise auf einem Hotelschiff.
+0.915663	Erlebnisreise mit Viking KD Kreuzfahrt oder Flusskreuzfahrt, ist eine Schiffsreise auf einem Hotelschiff.	Erlebnisreise von Viking KD Flusskreuzfahrt, Schiffsreise, Kreuzfahrt auf Hotelschiff.
+0.915663	Erlebnisreise von Viking KD Flusskreuzfahrt, Schiffsreise, Kreuzfahrt auf Hotelschiff.	Erlebnisreise mit Viking KD Flusskreuzfahrt oder Kreuzfahrt, ist eine Schiffsreise auf einem Hotelschiff.
+0.914722	Inhalt Tourenübersicht Fotogalerie Profilübersicht Tag 2.	Inhalt Tourenübersicht Fotogalerie Profilübersicht Tag 1. Tag 2.
+0.914286	Schwimm - Sport - Verein UNDINE 08 Mainz e.V.	Schwimm Sport Verein UNDINE 08 Mainz e.V.
+0.912371	Verein "Markus Röhling Treibeschacht" Frohnau e.V.	Anschrift: Verein "Markus Röhling Treibeschacht" Frohnau e.V.
+0.912121	Hansa Rostock: Martin Pieckenhagen - Andreas Jakobsson, Rayk Schröder - Christian Brand (ab 72.	Hansa Rostock: Martin Pieckenhagen - Andreas Jakobsson, Kai Oswald, Rayk Schröder - Christian Brand (ab 72.
+0.910714	Rainer Wältring 11.00 Uhr AD 2 Gr.	Rainer Wältring 10.30 Uhr AD 2 Gr.
+0.90678	Methoden: Kurzreferat, Rollenspiel, Kleingruppenarbeit, Materialien.	Methoden: Kurzreferat, Rollenspiel, Materialien, Kleingruppenarbeit.
+0.90566	Artikel E.preis (DM) G.preis(DM) Position 3 Stückzahl Artikel-Nr.	Artikel E.preis (DM) G.preis(DM) Position 6 Stückzahl Artikel-Nr.
+0.90566	Artikel E.preis (DM) G.preis(DM) Position 3 Stückzahl Artikel-Nr.	Artikel E.preis (DM) G.preis(DM) Position 5 Stückzahl Artikel-Nr.
+0.90566	Artikel E.preis (DM) G.preis(DM) Position 3 Stückzahl Artikel-Nr.	Artikel E.preis (DM) G.preis(DM) Position 2 Stückzahl Artikel-Nr.
+0.90566	Artikel E.preis (DM) G.preis(DM) Position 3 Stückzahl Artikel-Nr.	Artikel E.preis (DM) G.preis(DM) Position 8 Stückzahl Artikel-Nr.
+0.90566	Artikel E.preis (DM) G.preis(DM) Position 3 Stückzahl Artikel-Nr.	Artikel E.preis (DM) G.preis(DM) Position 9 Stückzahl Artikel-Nr.
+0.90566	Artikel E.preis (DM) G.preis(DM) Position 6 Stückzahl Artikel-Nr.	Artikel E.preis (DM) G.preis(DM) Position 5 Stückzahl Artikel-Nr.
+0.90566	Artikel E.preis (DM) G.preis(DM) Position 6 Stückzahl Artikel-Nr.	Artikel E.preis (DM) G.preis(DM) Position 2 Stückzahl Artikel-Nr.
+0.90566	Artikel E.preis (DM) G.preis(DM) Position 6 Stückzahl Artikel-Nr.	Artikel E.preis (DM) G.preis(DM) Position 8 Stückzahl Artikel-Nr.
+0.90566	Artikel E.preis (DM) G.preis(DM) Position 6 Stückzahl Artikel-Nr.	Artikel E.preis (DM) G.preis(DM) Position 9 Stückzahl Artikel-Nr.
+0.90566	Artikel E.preis (DM) G.preis(DM) Position 5 Stückzahl Artikel-Nr.	Artikel E.preis (DM) G.preis(DM) Position 2 Stückzahl Artikel-Nr.
+0.90566	Artikel E.preis (DM) G.preis(DM) Position 5 Stückzahl Artikel-Nr.	Artikel E.preis (DM) G.preis(DM) Position 8 Stückzahl Artikel-Nr.
+0.90566	Artikel E.preis (DM) G.preis(DM) Position 5 Stückzahl Artikel-Nr.	Artikel E.preis (DM) G.preis(DM) Position 9 Stückzahl Artikel-Nr.
+0.90566	Artikel E.preis (DM) G.preis(DM) Position 2 Stückzahl Artikel-Nr.	Artikel E.preis (DM) G.preis(DM) Position 8 Stückzahl Artikel-Nr.
+0.90566	Artikel E.preis (DM) G.preis(DM) Position 2 Stückzahl Artikel-Nr.	Artikel E.preis (DM) G.preis(DM) Position 9 Stückzahl Artikel-Nr.
+0.90566	Artikel E.preis (DM) G.preis(DM) Position 8 Stückzahl Artikel-Nr.	Artikel E.preis (DM) G.preis(DM) Position 9 Stückzahl Artikel-Nr.
+0.902778	Leasingfonds Deutschland 10 KG (Flugzeug-Leasing) Airbus A340 - Cathay Pacific H.F.S.	Leasingfonds Deutschland 11 KG (Flugzeug-Leasing) Airbus A330 - Cathay Pacific H.F.S.
+0.900327	Leasingfonds Deutschland 7 KG H.F.S.	Leasingfonds GmbH & Co. Deutschland 6 KG H.F.S.
+0.897727	Online-Bestellung Füllen Sie folgendes Forumlar aus.	Online-Bestellung Füllen Sie das Forumlar aus.
+0.895161	Toaster, Küchenmaschine, Kaffeemaschine (Bodumtyp), Wasserkocher, Feuerlöscher, Geschirrhandtücher und Reinigungsmaterial werden gestellt.	Toaster, Küchenmaschine, Kaffeemaschine (elektrisch), Wasserkocher, Feuerlöscher, Geschirrhandtücher und Reinigungsmaterial werden gestellt.
+0.892857	Von Kuno Hottenrott, Martin Zülch Direkt bestellen bei Amazon.de Buchempfehlung 9 Inline- Skating.	Von Kuno Hottenrott, Martin Zülch Direkt bestellen bei Amazon.de Buchempfehlung 8 Inline- Skating.
+0.89	Natürlich vom Himmlischen Höllein - Modellflug pur!	CONTOUR 400 - Natürlich vom Himmlischen Höllein - Modellflug pur!
+0.88983	Samoa - Aktuelles 1 Haben Sie noch Fragen?	Aktuelles Haben Sie noch Fragen?
+0.888128	Teams - Tore SC Pfullendorf: Hermanutz - Deufel, Möhrle, Schwartz, Krause (60. Buck) - Slawig, Konrad, Hagg - Römer (70. Schnetzler), Barlecaj, Magdic.	SC Pfullendorf: Hermanutz - Deufel, Möhrle, Schwartz, Krause (60. Buck) - Slawig, Konrad, Barlecaj, Hagg - Römer (70. Schnetzler), Magdic.
+0.887195	Information - Weinanbaugebiete Ahr Baden Franken Hessische Bergstrasse Mosel-Saar-Ruwer Mittelrhein Nahe Pfalz Rheingau Rheinhessen Sachsen Saale-Unstrut Würtemberg Rheinhessenwein e.V.	Information - Weinanbaugebiete Ahr Baden Franken Hessische Bergstrasse Mosel-Saar-Ruwer Mittelrhein Nahe Pfalz Rheingau Rheinhessen Sachsen Saale-Unstrut Würtemberg Pfalzwein e.V.
+0.886018	Information - Weinanbaugebiete Ahr Baden Franken Hessische Bergstrasse Mosel-Saar-Ruwer Mittelrhein Nahe Pfalz Rheingau Rheinhessen Sachsen Saale-Unstrut Würtemberg Mittelrhein-Wein e.V.	Information - Weinanbaugebiete Ahr Baden Franken Hessische Bergstrasse Mosel-Saar-Ruwer Mittelrhein Nahe Pfalz Rheingau Rheinhessen Sachsen Saale-Unstrut Würtemberg Pfalzwein e.V.
+0.884615	Fabrikat: Laing Typ S1-15/700 BRW Artikel-Nr.: 10 00 040 Beschreibung: Wartungsfreie Naßläufer-Umwälzpumpe in Inlinebauweise.	Fabrikat: Laing Typ S1-15/700 B Artikel-Nr.: 10 00 001 Beschreibung: Wartungsfreie Naßläufer-Umwälzpumpe in Inlinebauweise.
+0.884615	Fabrikat: Laing Typ S1-15/700 B Artikel-Nr.: 10 00 001 Beschreibung: Wartungsfreie Naßläufer-Umwälzpumpe in Inlinebauweise.	Fabrikat: Laing Typ S1-15/700 BRU Artikel-Nr.: 10 00 035 Beschreibung: Wartungsfreie Naßläufer-Umwälzpumpe in Inlinebauweise.
+0.883838	Christlicher Verein Junger Menschen Nagold e.V.	Weihnachtsmarkt Christlicher Verein Junger Menschen Nagold e.V.
+0.883333	Hansa Rostock: Martin Pieckenhagen - Andreas Jakobsson, Kai Oswald (ab 61.	Hansa Rostock: Martin Pieckenhagen - Andreas Jakobsson, Kai Oswald (ab 82.
+0.881295	Diese Fehlsichtigkeit wird als Astigmatismus oder Hornhautverkrümmung bezeichnet.	Diese Fehlsichtigkeit nennt man Astigmatismus oder Hornhautverkrümmung.
+0.880282	Inhalt Übersicht Voriges Thema Nächstes Thema Einleitung Mehr: Herzlichen Glückwunsch!	Inhalt Übersicht Voriges Thema Nächstes Thema Herzlichen Glückwunsch!
+0.880282	Sparta Münster - HCE Bad Oeynhausen 21:19 (10:8).	HCE Bad Oeynhausen - Sparta Münster 27:36 (16:13).
+0.879747	Zurück Vergleichen und sparen Anfrage INNOZEPTE Innovative Finanzierungskonzepte Friedrich Eschle Dipl. Finanz.- und Leasingwirt (VWA) Gepr.	Zurück Vergleichen und sparen INNOZEPTE Innovative Finanzierungskonzepte Friedrich Eschle Dipl. Finanz.- und Leasingwirt (VWA) Gepr.
+0.879464	Fabrikat: Laing Typ S1-15/700 BRW Artikel-Nr.: 10 00 040 Beschreibung: Wartungsfreie Naßläufer-Umwälzpumpe in Inlinebauweise.	Fabrikat: Laing Typ S1-15/700 BRU Artikel-Nr.: 10 00 035 Beschreibung: Wartungsfreie Naßläufer-Umwälzpumpe in Inlinebauweise.
+0.879121	Erlebnisreise von Viking KD Flusskreuzfahrt oder Kreuzfahrt, ist eine Schiffsreise auf einem Hotelschiff.	Erlebnisreise mit Viking KD Kreuzfahrt oder Flusskreuzfahrt, ist eine Schiffsreise auf einem Hotelschiff.
+0.879121	Erlebnisreise von Viking KD Flusskreuzfahrt oder Kreuzfahrt, ist eine Schiffsreise auf einem Hotelschiff.	Erlebnisreise mit Viking KD Flusskreuzfahrt oder Kreuzfahrt, ist eine Schiffsreise auf einem Hotelschiff.
+0.879121	Erlebnisreise mit Viking KD Kreuzfahrt oder Flusskreuzfahrt, ist eine Schiffsreise auf einem Hotelschiff.	Erlebnisreise mit Viking KD Flusskreuzfahrt oder Kreuzfahrt, ist eine Schiffsreise auf einem Hotelschiff.
+0.879104	Information - Weinanbaugebiete Ahr Baden Franken Hessische Bergstrasse Mosel-Saar-Ruwer Mittelrhein Nahe Pfalz Rheingau Rheinhessen Sachsen Saale-Unstrut Würtemberg Mittelrhein-Wein e.V.	Information - Weinanbaugebiete Ahr Baden Franken Hessische Bergstrasse Mosel-Saar-Ruwer Mittelrhein Nahe Pfalz Rheingau Rheinhessen Sachsen Saale-Unstrut Würtemberg Rheinhessenwein e.V.
+0.878947	Von Volker Nagel, Tobias Hatje Direkt bestellen bei Amazon.de Buchempfehlung 9 Ausdauertrainer Inline- Skating.	Von Volker Nagel, Tobias Hatje Direkt bestellen bei Amazon.de Buchempfehlung 8 Ausdauertrainer Inline- Skating.
+0.878788	Ludwig Willi PBC Rot-Gelb Stolberg 02.	Willi Ludwig PBC Rot-Gelb Stolberg 06.
+0.878049	Zurück zum Albumindex Titel: Acenders Photograph/Künstler: Freizeitvolleyball Berlin e.V.	Zurück zum Albumindex Titel: Megabyte Photograph/Künstler: Freizeitvolleyball Berlin e.V.
+0.878049	Zurück zum Albumindex Titel: Acenders Photograph/Künstler: Freizeitvolleyball Berlin e.V.	Zurück zum Albumindex Titel: SG_Stern Photograph/Künstler: Freizeitvolleyball Berlin e.V.
+0.878049	Serienmäßig Doppelbart-Hochsicherheitsschloss mit 2 Schlüsseln (145 mm lang) Unterschiedliche Schloßkombinationen auf Wunsch lieferbar.	Serienmäßig Doppelbart-Hochsicherheitsschloss mit 2 Schlüsseln (145 mm lang) Unterschiedliche Schlosskombinationen auf Wunsch lieferbar.
+0.878049	Zurück zum Albumindex Titel: Megabyte Photograph/Künstler: Freizeitvolleyball Berlin e.V.	Zurück zum Albumindex Titel: SG_Stern Photograph/Künstler: Freizeitvolleyball Berlin e.V.
+0.877551	FFW Ehrang Artikel des Trierischen Volksfreundes vom 03.	FFW Ehrang Artikel des Trierischen Volksfreundes vom 04.
+0.877049	Aktuelles Haben Sie noch Fragen?	Aktuelles Kontakt Haben Sie noch Fragen?
+0.876947	Der Spielzeugshop für Spielwaren Kinderspielzeug Modellbau Pokemon Digimon Stofftiere Gesellschaftsspiele Computerspiele Babybedarf Bücher Konsolenspiele Holzspielwaren.	Der Spielzeugshop für Spielwaren Kinderspielzeug Modellbau Spielzeug Pokemon Digimon Stofftiere Gesellschaftsspiele Computerspiele Babybedarf Bücher Konsolenspiele Holzspielwaren.
+0.876173	Samstag 13. 20:00 Uhr OG-Versammlung Kein Übungsbetrieb Haus Seier Sonntag 14.	Samstag 8. 20:00 OG-Versammlung Kein Übungsbetrieb Haus Seier Sonntag 9.
+0.875758	Zurück zum Albumindex Titel: BionicSix Photograph/Künstler: Freizeitvolleyball Berlin e.V.	Zurück zum Albumindex Titel: Acenders Photograph/Künstler: Freizeitvolleyball Berlin e.V.
+0.875758	Zurück zum Albumindex Titel: BionicSix Photograph/Künstler: Freizeitvolleyball Berlin e.V.	Zurück zum Albumindex Titel: Megabyte Photograph/Künstler: Freizeitvolleyball Berlin e.V.
+0.875758	Zurück zum Albumindex Titel: BionicSix Photograph/Künstler: Freizeitvolleyball Berlin e.V.	Zurück zum Albumindex Titel: SG_Stern Photograph/Künstler: Freizeitvolleyball Berlin e.V.
+0.875566	USA Flüge Mietfahrzeuge USA-Angebote Kanada-Angebote Info Reiseführer Reise-Software Leatherman Tools Home Wie Buchen?	USA Flüge Mietfahrzeuge USA-Angebote Kanada-Angebote Info und mehr Reiseführer Reise-Software Leatherman Tools Home Wie Buchen?
+0.875	Pilgerreise Fatima Musicalreisen Wanderreisen Seefestspiele Mörbisch Mecklenburgische Seenplatte Hier finden Sie ein paar Beispiele.	Musicalreisen Wanderreisen Seefestspiele Mörbisch Mecklenburgische Seenplatte Pilgerreise Hier finden Sie ein paar Beispiele.
+0.875	Pilgerreise Fatima Musicalreisen Wanderreisen Mecklenburgische Seenplatte Seefestspiele Mörbisch Hier finden Sie ein paar Beispiele.	Musicalreisen Wanderreisen Seefestspiele Mörbisch Mecklenburgische Seenplatte Pilgerreise Hier finden Sie ein paar Beispiele.
+0.873593	Immobilienfonds Deutschland 1 KG - Aktuelle Informationen H.F.S.	Immobilienfonds Europa 1 KG - Aktuelle Informationen H.F.S.
+0.873134	FG Sozialpädagogische Berufe 19.30 Uhr, GEW-Geschäftsstelle, Bremen 20.03.	FG Sozialpädagogische Berufe 20.00 Uhr, GEW-Geschäftsstelle, Bremen 20.02.
+0.871875	Tabelle-Stadtklasse A-Jugend B1-Jugend B2-Jugend C1-Jugend C2-Jugend C3-Jugend D1-Jugend D2-Jugend D3-Jugend E1-Jugend E2-Jugend E3-Jugend F1-Jugend F2-Jugend Platz Mannschaft Sp.	Tabelle Landesliga A-Jugend B1-Jugend B2-Jugend C1-Jugend C2-Jugend C3-Jugend D1-Jugend D2-Jugend D3-Jugend E1-Jugend E2-Jugend E3-Jugend F1-Jugend F2-Jugend Platz Mannschaft Sp.
+0.871795	Sebastian Liebscher 85 SGS Hannover 1:16,17 9.	Sebastian Liebscher 85 SGS Hannover 0:35,17 6.
+0.87156	Sachbegriffe Theater ç é ê Datensatz 684 Erfassungsstelle Spinnboden, Berlin Bestand ç Spinnboden-Plakatsammlung Signatur Ausst.	Sachbegriffe Theater ç é ê Datensatz 678 Erfassungsstelle Spinnboden, Berlin Bestand ç Spinnboden-Plakatsammlung Signatur Ausst.
+0.871429	Hippokrates: Wegen eines Überschusses an Trägheit in ihrer Bauchspeicheldrüse.	Hippokrates: Wegen eines Überschusses an Trägheit in der Bauchspeicheldrüse.
+0.871429	Hippokrates: Wegen eines Überschusses an Trägheit in der Bauchspeicheldrüse.	Hippokrates Wegen eines Überschusses an Trägheit in ihrer Bauchspeicheldrüse.
+0.871257	Zurück zum Albumindex Titel: Acenders Photograph/Künstler: Freizeitvolleyball Berlin e.V.	Zurück zum Albumindex Titel: Netzfischer Photograph/Künstler: Freizeitvolleyball Berlin e.V.
+0.871257	Zurück zum Albumindex Titel: Acenders Photograph/Künstler: Freizeitvolleyball Berlin e.V.	Zurück zum Albumindex Titel: Birkenheide 2 Photograph/Künstler: Freizeitvolleyball Berlin e.V.
+0.871257	Zurück zum Albumindex Titel: Netzfischer Photograph/Künstler: Freizeitvolleyball Berlin e.V.	Zurück zum Albumindex Titel: Megabyte Photograph/Künstler: Freizeitvolleyball Berlin e.V.
+0.871257	Zurück zum Albumindex Titel: Netzfischer Photograph/Künstler: Freizeitvolleyball Berlin e.V.	Zurück zum Albumindex Titel: SG_Stern Photograph/Künstler: Freizeitvolleyball Berlin e.V.
+0.871257	Zurück zum Albumindex Titel: Birkenheide 2 Photograph/Künstler: Freizeitvolleyball Berlin e.V.	Zurück zum Albumindex Titel: Megabyte Photograph/Künstler: Freizeitvolleyball Berlin e.V.
+0.871257	Zurück zum Albumindex Titel: Birkenheide 2 Photograph/Künstler: Freizeitvolleyball Berlin e.V.	Zurück zum Albumindex Titel: SG_Stern Photograph/Künstler: Freizeitvolleyball Berlin e.V.
+0.871212	Verein "Markus Röhling Treibeschacht" Frohnau e.V.	Homepage Verein "Markus Roehling Treibeschacht" Frohnau e.V.
+0.87069	Ab 5.45 Uhr Auffahrt mit der Fellhornbahn bis Station Schlappoldsee.	Ab 6.00 Uhr Auffahrt mit der Fellhornbahn bis Station Schlappoldsee.
+0.87069	Ab 5.45 Uhr Auffahrt mit der Fellhornbahn bis Station Schlappoldsee.	Ab 5.15 Uhr Auffahrt mit der Fellhornbahn bis Station Schlappoldsee.
+0.87069	Ab 6.00 Uhr Auffahrt mit der Fellhornbahn bis Station Schlappoldsee.	Ab 5.15 Uhr Auffahrt mit der Fellhornbahn bis Station Schlappoldsee.
+0.87037	Sachbegriffe Werbung ç é ê Datensatz 851 Erfassungsstelle Spinnboden, Berlin Bestand ç Spinnboden-Plakatsammlung Signatur Berl.	Sachbegriffe Werbung ç é ê Datensatz 838 Erfassungsstelle Spinnboden, Berlin Bestand ç Spinnboden-Plakatsammlung Signatur Berl.
+0.87037	Sachbegriffe Werbung ç é ê Datensatz 851 Erfassungsstelle Spinnboden, Berlin Bestand ç Spinnboden-Plakatsammlung Signatur Berl.	Sachbegriffe Werbung ç é ê Datensatz 853 Erfassungsstelle Spinnboden, Berlin Bestand ç Spinnboden-Plakatsammlung Signatur Berl.
+0.87037	Sachbegriffe Werbung ç é ê Datensatz 851 Erfassungsstelle Spinnboden, Berlin Bestand ç Spinnboden-Plakatsammlung Signatur Berl.	Sachbegriffe Werbung ç é ê Datensatz 844 Erfassungsstelle Spinnboden, Berlin Bestand ç Spinnboden-Plakatsammlung Signatur Berl.
+0.87037	Sachbegriffe Werbung ç é ê Datensatz 851 Erfassungsstelle Spinnboden, Berlin Bestand ç Spinnboden-Plakatsammlung Signatur Berl.	Sachbegriffe Werbung ç é ê Datensatz 837 Erfassungsstelle Spinnboden, Berlin Bestand ç Spinnboden-Plakatsammlung Signatur Berl.
+0.87037	Sachbegriffe Werbung ç é ê Datensatz 851 Erfassungsstelle Spinnboden, Berlin Bestand ç Spinnboden-Plakatsammlung Signatur Berl.	Sachbegriffe Werbung ç é ê Datensatz 841 Erfassungsstelle Spinnboden, Berlin Bestand ç Spinnboden-Plakatsammlung Signatur Berl.
+0.87037	Sachbegriffe Werbung ç é ê Datensatz 851 Erfassungsstelle Spinnboden, Berlin Bestand ç Spinnboden-Plakatsammlung Signatur Berl.	Sachbegriffe Werbung ç é ê Datensatz 858 Erfassungsstelle Spinnboden, Berlin Bestand ç Spinnboden-Plakatsammlung Signatur Berl.
+0.87037	Sachbegriffe Werbung ç é ê Datensatz 851 Erfassungsstelle Spinnboden, Berlin Bestand ç Spinnboden-Plakatsammlung Signatur Berl.	Sachbegriffe Werbung ç é ê Datensatz 859 Erfassungsstelle Spinnboden, Berlin Bestand ç Spinnboden-Plakatsammlung Signatur Berl.
+0.87037	Sachbegriffe Werbung ç é ê Datensatz 838 Erfassungsstelle Spinnboden, Berlin Bestand ç Spinnboden-Plakatsammlung Signatur Berl.	Sachbegriffe Werbung ç é ê Datensatz 853 Erfassungsstelle Spinnboden, Berlin Bestand ç Spinnboden-Plakatsammlung Signatur Berl.
+0.87037	Sachbegriffe Werbung ç é ê Datensatz 838 Erfassungsstelle Spinnboden, Berlin Bestand ç Spinnboden-Plakatsammlung Signatur Berl.	Sachbegriffe Werbung ç é ê Datensatz 844 Erfassungsstelle Spinnboden, Berlin Bestand ç Spinnboden-Plakatsammlung Signatur Berl.
+0.87037	Sachbegriffe Werbung ç é ê Datensatz 838 Erfassungsstelle Spinnboden, Berlin Bestand ç Spinnboden-Plakatsammlung Signatur Berl.	Sachbegriffe Werbung ç é ê Datensatz 837 Erfassungsstelle Spinnboden, Berlin Bestand ç Spinnboden-Plakatsammlung Signatur Berl.
+0.87037	Sachbegriffe Werbung ç é ê Datensatz 838 Erfassungsstelle Spinnboden, Berlin Bestand ç Spinnboden-Plakatsammlung Signatur Berl.	Sachbegriffe Werbung ç é ê Datensatz 841 Erfassungsstelle Spinnboden, Berlin Bestand ç Spinnboden-Plakatsammlung Signatur Berl.
+0.87037	Sachbegriffe Werbung ç é ê Datensatz 838 Erfassungsstelle Spinnboden, Berlin Bestand ç Spinnboden-Plakatsammlung Signatur Berl.	Sachbegriffe Werbung ç é ê Datensatz 858 Erfassungsstelle Spinnboden, Berlin Bestand ç Spinnboden-Plakatsammlung Signatur Berl.
+0.87037	Sachbegriffe Werbung ç é ê Datensatz 838 Erfassungsstelle Spinnboden, Berlin Bestand ç Spinnboden-Plakatsammlung Signatur Berl.	Sachbegriffe Werbung ç é ê Datensatz 859 Erfassungsstelle Spinnboden, Berlin Bestand ç Spinnboden-Plakatsammlung Signatur Berl.
+0.87037	Sachbegriffe Werbung ç é ê Datensatz 853 Erfassungsstelle Spinnboden, Berlin Bestand ç Spinnboden-Plakatsammlung Signatur Berl.	Sachbegriffe Werbung ç é ê Datensatz 844 Erfassungsstelle Spinnboden, Berlin Bestand ç Spinnboden-Plakatsammlung Signatur Berl.
+0.87037	Sachbegriffe Werbung ç é ê Datensatz 853 Erfassungsstelle Spinnboden, Berlin Bestand ç Spinnboden-Plakatsammlung Signatur Berl.	Sachbegriffe Werbung ç é ê Datensatz 837 Erfassungsstelle Spinnboden, Berlin Bestand ç Spinnboden-Plakatsammlung Signatur Berl.
+0.87037	Sachbegriffe Werbung ç é ê Datensatz 853 Erfassungsstelle Spinnboden, Berlin Bestand ç Spinnboden-Plakatsammlung Signatur Berl.	Sachbegriffe Werbung ç é ê Datensatz 841 Erfassungsstelle Spinnboden, Berlin Bestand ç Spinnboden-Plakatsammlung Signatur Berl.
+0.87037	Sachbegriffe Werbung ç é ê Datensatz 853 Erfassungsstelle Spinnboden, Berlin Bestand ç Spinnboden-Plakatsammlung Signatur Berl.	Sachbegriffe Werbung ç é ê Datensatz 858 Erfassungsstelle Spinnboden, Berlin Bestand ç Spinnboden-Plakatsammlung Signatur Berl.
+0.87037	Sachbegriffe Werbung ç é ê Datensatz 853 Erfassungsstelle Spinnboden, Berlin Bestand ç Spinnboden-Plakatsammlung Signatur Berl.	Sachbegriffe Werbung ç é ê Datensatz 859 Erfassungsstelle Spinnboden, Berlin Bestand ç Spinnboden-Plakatsammlung Signatur Berl.
+0.87037	Sachbegriffe Werbung ç é ê Datensatz 844 Erfassungsstelle Spinnboden, Berlin Bestand ç Spinnboden-Plakatsammlung Signatur Berl.	Sachbegriffe Werbung ç é ê Datensatz 837 Erfassungsstelle Spinnboden, Berlin Bestand ç Spinnboden-Plakatsammlung Signatur Berl.
+0.87037	Sachbegriffe Werbung ç é ê Datensatz 844 Erfassungsstelle Spinnboden, Berlin Bestand ç Spinnboden-Plakatsammlung Signatur Berl.	Sachbegriffe Werbung ç é ê Datensatz 841 Erfassungsstelle Spinnboden, Berlin Bestand ç Spinnboden-Plakatsammlung Signatur Berl.
+0.87037	Sachbegriffe Werbung ç é ê Datensatz 844 Erfassungsstelle Spinnboden, Berlin Bestand ç Spinnboden-Plakatsammlung Signatur Berl.	Sachbegriffe Werbung ç é ê Datensatz 858 Erfassungsstelle Spinnboden, Berlin Bestand ç Spinnboden-Plakatsammlung Signatur Berl.
+0.87037	Sachbegriffe Werbung ç é ê Datensatz 844 Erfassungsstelle Spinnboden, Berlin Bestand ç Spinnboden-Plakatsammlung Signatur Berl.	Sachbegriffe Werbung ç é ê Datensatz 859 Erfassungsstelle Spinnboden, Berlin Bestand ç Spinnboden-Plakatsammlung Signatur Berl.
+0.87037	Sachbegriffe Werbung ç é ê Datensatz 837 Erfassungsstelle Spinnboden, Berlin Bestand ç Spinnboden-Plakatsammlung Signatur Berl.	Sachbegriffe Werbung ç é ê Datensatz 841 Erfassungsstelle Spinnboden, Berlin Bestand ç Spinnboden-Plakatsammlung Signatur Berl.
+0.87037	Sachbegriffe Werbung ç é ê Datensatz 837 Erfassungsstelle Spinnboden, Berlin Bestand ç Spinnboden-Plakatsammlung Signatur Berl.	Sachbegriffe Werbung ç é ê Datensatz 858 Erfassungsstelle Spinnboden, Berlin Bestand ç Spinnboden-Plakatsammlung Signatur Berl.
+0.87037	Sachbegriffe Werbung ç é ê Datensatz 837 Erfassungsstelle Spinnboden, Berlin Bestand ç Spinnboden-Plakatsammlung Signatur Berl.	Sachbegriffe Werbung ç é ê Datensatz 859 Erfassungsstelle Spinnboden, Berlin Bestand ç Spinnboden-Plakatsammlung Signatur Berl.
+0.87037	Sachbegriffe Werbung ç é ê Datensatz 841 Erfassungsstelle Spinnboden, Berlin Bestand ç Spinnboden-Plakatsammlung Signatur Berl.	Sachbegriffe Werbung ç é ê Datensatz 858 Erfassungsstelle Spinnboden, Berlin Bestand ç Spinnboden-Plakatsammlung Signatur Berl.
+0.87037	Sachbegriffe Werbung ç é ê Datensatz 841 Erfassungsstelle Spinnboden, Berlin Bestand ç Spinnboden-Plakatsammlung Signatur Berl.	Sachbegriffe Werbung ç é ê Datensatz 859 Erfassungsstelle Spinnboden, Berlin Bestand ç Spinnboden-Plakatsammlung Signatur Berl.
+0.87037	Sachbegriffe Werbung ç é ê Datensatz 858 Erfassungsstelle Spinnboden, Berlin Bestand ç Spinnboden-Plakatsammlung Signatur Berl.	Sachbegriffe Werbung ç é ê Datensatz 859 Erfassungsstelle Spinnboden, Berlin Bestand ç Spinnboden-Plakatsammlung Signatur Berl.
+0.869748	Fortschritt-Berichte VDI, Reihe 11, Nr. 189, Düsseldorf: VDI-Verlag, 1993.	Fortschritt-Berichte VDI, Reihe 8, Nr. 211, Düsseldorf: VDI-Verlag, 1990.
+0.869748	Fortschritt-Berichte VDI, Reihe 11, Nr. 216, Düsseldorf: VDI-Verlag, 1994.	Fortschritt-Berichte VDI, Reihe 8, Nr. 211, Düsseldorf: VDI-Verlag, 1990.
+0.869748	Fortschritt-Berichte VDI, Reihe 8, Nr. 211, Düsseldorf: VDI-Verlag, 1990.	Fortschritt-Berichte VDI, Reihe 11, Nr. 187, Düsseldorf: VDI-Verlag, 1993.
+0.869538	Samstag 13. 20:00 Uhr OG-Versammlung Kein Übungsbetrieb Haus Seier Sonntag 14.	Samstag 12. 20:00 OG-Versammlung Kein Übungsbetrieb Haus Seier Sonntag 13.
+0.869048	Zurück zum Albumindex Titel: BionicSix Photograph/Künstler: Freizeitvolleyball Berlin e.V.	Zurück zum Albumindex Titel: Netzfischer Photograph/Künstler: Freizeitvolleyball Berlin e.V.
+0.869048	Zurück zum Albumindex Titel: BionicSix Photograph/Künstler: Freizeitvolleyball Berlin e.V.	Zurück zum Albumindex Titel: Birkenheide 2 Photograph/Künstler: Freizeitvolleyball Berlin e.V.
+0.868889	Warengruppen Home Kabel u. Zubehör Kabelzubehör Produkte: Aufputzmaterial Unterputzmaterial Schalterprogramme Verteilerm.	Warengruppen Home Kabel u. Zubehör Kabel Kabelzubehör Produkte: Aufputzmaterial Unterputzmaterial Schalterprogramme Verteilerm.
+0.867089	Sebastian Liebscher 85 SGS Hannover 0:29,37 14.	Sebastian Liebscher 85 SGS Hannover 1:16,17 9.
+0.867089	Sebastian Liebscher 85 SGS Hannover 0:29,37 14.	Sebastian Liebscher 85 SGS Hannover 0:35,17 6.
+0.866972	Migräneprophylaktika der ersten Wahl sind die Betablocker Metoprolol und Propranolol und der Calciumantagonist Flunarizin ().	Migräneprophylaktika der ersten Wahl sind die Betablocker Metoprolol und Propranolol und der Calciumantagonist Flunarizin.
+0.866864	Zurück zum Albumindex Titel: Ersatzfriesen Photograph/Künstler: Freizeitvolleyball Berlin e.V.	Zurück zum Albumindex Titel: Acenders Photograph/Künstler: Freizeitvolleyball Berlin e.V.
+0.866864	Zurück zum Albumindex Titel: Ersatzfriesen Photograph/Künstler: Freizeitvolleyball Berlin e.V.	Zurück zum Albumindex Titel: Megabyte Photograph/Künstler: Freizeitvolleyball Berlin e.V.
+0.866864	Zurück zum Albumindex Titel: Ersatzfriesen Photograph/Künstler: Freizeitvolleyball Berlin e.V.	Zurück zum Albumindex Titel: SG_Stern Photograph/Künstler: Freizeitvolleyball Berlin e.V.
+0.866667	Fortschritt-Berichte VDI, Reihe 11, Nr. 189, Düsseldorf: VDI-Verlag, 1993.	Fortschritt-Berichte VDI, Reihe 11, Nr. 216, Düsseldorf: VDI-Verlag, 1994.
+0.866667	Fortschritt-Berichte VDI, Reihe 11, Nr. 189, Düsseldorf: VDI-Verlag, 1993.	Fortschritt-Berichte VDI, Reihe 11, Nr. 187, Düsseldorf: VDI-Verlag, 1993.
+0.866667	Fortschritt-Berichte VDI, Reihe 11, Nr. 216, Düsseldorf: VDI-Verlag, 1994.	Fortschritt-Berichte VDI, Reihe 11, Nr. 187, Düsseldorf: VDI-Verlag, 1993.
+0.866197	Hippokrates: Wegen eines Überschusses an Trägheit in ihrer Bauchspeicheldrüse.	Hippokrates Wegen eines Überschusses an Trägheit in ihrer Bauchspeicheldrüse.
+0.865854	Lichtenberg, Christoph 82 OSC Potsdam 1:04,54 26.	Lichtenberg, Christoph 82 OSC Potsdam 1:00,44 34.
+0.865854	Lichtenberg, Christoph 82 OSC Potsdam 1:04,54 26.	Christoph Lichtenberg 82 OSC Potsdam 1:04,54 26.
+0.865854	Lichtenberg, Christoph 82 OSC Potsdam 1:00,44 34.	Christoph Lichtenberg 82 OSC Potsdam 1:04,54 26.
+0.865672	WK ) Kohlscheider SC 7976 SG Erkelenz-Hückelh. 7147 Delphin Eschweiler 7000 Wfr.	WK ) Kohlscheider SC 5704 SG Erkelenz-Hückelh. 5008 Delphin Eschweiler 4956 Wfr.
+0.865672	WK ) Kohlscheider SC 7976 SG Erkelenz-Hückelh. 7147 Delphin Eschweiler 7000 Wfr.	WK ) Kohlscheider SC 7173 SG Erkelenz-Hückelh. 6453 Delphin Eschweiler 6101 Wfr.
+0.865672	WK ) Kohlscheider SC 7976 SG Erkelenz-Hückelh. 7147 Delphin Eschweiler 7000 Wfr.	WK ) Kohlscheider SC 9386 Delphin Eschweiler 8369 SG Erkelenz-Hückelh. 8290 Wfr.
+0.865672	WK ) Kohlscheider SC 7976 SG Erkelenz-Hückelh. 7147 Delphin Eschweiler 7000 Wfr.	WK ) Kohlscheider SC 8394 Delphin Eschweiler 7509 SG Erkelenz-Hückelh. 7378 Wfr.
+0.865672	WK ) Kohlscheider SC 5704 SG Erkelenz-Hückelh. 5008 Delphin Eschweiler 4956 Wfr.	WK ) Kohlscheider SC 7173 SG Erkelenz-Hückelh. 6453 Delphin Eschweiler 6101 Wfr.
+0.865672	WK ) Kohlscheider SC 5704 SG Erkelenz-Hückelh. 5008 Delphin Eschweiler 4956 Wfr.	WK ) Kohlscheider SC 9386 Delphin Eschweiler 8369 SG Erkelenz-Hückelh. 8290 Wfr.
+0.865672	WK ) Kohlscheider SC 5704 SG Erkelenz-Hückelh. 5008 Delphin Eschweiler 4956 Wfr.	WK ) Kohlscheider SC 8394 Delphin Eschweiler 7509 SG Erkelenz-Hückelh. 7378 Wfr.
+0.865672	WK ) Kohlscheider SC 7173 SG Erkelenz-Hückelh. 6453 Delphin Eschweiler 6101 Wfr.	WK ) Kohlscheider SC 9386 Delphin Eschweiler 8369 SG Erkelenz-Hückelh. 8290 Wfr.
+0.865672	WK ) Kohlscheider SC 7173 SG Erkelenz-Hückelh. 6453 Delphin Eschweiler 6101 Wfr.	WK ) Kohlscheider SC 8394 Delphin Eschweiler 7509 SG Erkelenz-Hückelh. 7378 Wfr.
+0.865672	WK ) Kohlscheider SC 9386 Delphin Eschweiler 8369 SG Erkelenz-Hückelh. 8290 Wfr.	WK ) Kohlscheider SC 8394 Delphin Eschweiler 7509 SG Erkelenz-Hückelh. 7378 Wfr.
+0.865546	Pilgerreise Fatima Musicalreisen Wanderreisen Seefestspiele Mörbisch Mecklenburgische Seenplatte Hier finden Sie ein paar Beispiele.	Pilgerreise Fatima Musicalreisen Wanderreisen Mecklenburgische Seenplatte Seefestspiele Mörbisch Hier finden Sie ein paar Beispiele.
+0.864706	Zurück zum Albumindex Titel: BionicSix Photograph/Künstler: Freizeitvolleyball Berlin e.V.	Zurück zum Albumindex Titel: Ersatzfriesen Photograph/Künstler: Freizeitvolleyball Berlin e.V.
+0.864706	Zurück zum Albumindex Titel: Netzfischer Photograph/Künstler: Freizeitvolleyball Berlin e.V.	Zurück zum Albumindex Titel: Birkenheide 2 Photograph/Künstler: Freizeitvolleyball Berlin e.V.
+0.863636	Dienstag, 26.5.98, 21 Uhr, Große Galerie.	Dienstag, 20.1.98, 21 Uhr, Große Galerie.
+0.863636	Dienstag, 26.5.98, 21 Uhr, Große Galerie.	Dienstag, 19.1.99, 21 Uhr, Große Galerie.
+0.863636	Duisburg - Huckingen Klasse: Bereichsklasse Datum: Diözesanverband Essen Wettkampf 3 Einzelergebnisse: Heim-Mannschaft: St. Seb.	Duisburg - Huckingen Klasse: Bereichsklasse Datum: Diözesanverband Essen Wettkampf 4 Einzelergebnisse: Heim-Mannschaft: St. Seb.
+0.863636	Dienstag, 20.1.98, 21 Uhr, Große Galerie.	Dienstag, 19.1.99, 21 Uhr, Große Galerie.
+0.863095	EU-CELL® M ist frei von Salz, Gluten, Laktose, Stärke, Cholesterin, Zucker und Zuckeraustauschstoffen.	EU-CELL® F ist frei von Salz, Gluten, Laktose, Stärke, Cholesterin, Zucker und Zuckeraustauschstoffen.
+0.862319	FAQs Haben Sie Fragen oder Anmerkungen?	Haben Sie weitere Fragen oder Anmerkungen?
+0.861905	Eintritt: Vorverkauf 8,-- / Abendkasse 10,-- DM Kartenvorverkauf:	Eintritt: Vorverkauf 5,-- / Abendkasse 7,-- DM Kartenvorverkauf:
+0.861381	Information - Weinanbaugebiete Ahr Baden Franken Hessische Bergstrasse Mosel-Saar-Ruwer Mittelrhein Nahe Pfalz Rheingau Rheinhessen Sachsen Saale-Unstrut Würtemberg Mosel-Saar-Ruwer Wein e.V.	Information - Weinanbaugebiete Ahr Baden Franken Hessische Bergstrasse Mosel-Saar-Ruwer Mittelrhein Nahe Pfalz Rheingau Rheinhessen Sachsen Saale-Unstrut Würtemberg Pfalzwein e.V.
+0.860465	Zurück zum Albumindex Titel: Ersatzfriesen Photograph/Künstler: Freizeitvolleyball Berlin e.V.	Zurück zum Albumindex Titel: Netzfischer Photograph/Künstler: Freizeitvolleyball Berlin e.V.
+0.860465	Zurück zum Albumindex Titel: Ersatzfriesen Photograph/Künstler: Freizeitvolleyball Berlin e.V.	Zurück zum Albumindex Titel: Birkenheide 2 Photograph/Künstler: Freizeitvolleyball Berlin e.V.
+0.860465	Fleischer, Ronny SG Stahl Schmiedeberg 63 7.	Fleischer, Ronny 0 0 19:38.3 3:25.5 SG Stahl Schmiedeberg 4.
+0.858153	Tabelle Landesliga A-Jugend B1-Jugend B2-Jugend C1-Jugend C2-Jugend C3-Jugend D1-Jugend D2-Jugend D3-Jugend E1-Jugend E2-Jugend E3-Jugend F1-Jugend F2-Jugend Platz Mannschaft Sp.	Tabelle Stadtliga A-Jugend B1-Jugend B2-Jugend C1-Jugend C2-Jugend C3-Jugend D1-Jugend D2-Jugend D3-Jugend E1-Jugend E2-Jugend E3-Jugend F1-Jugend F2-Jugend Platz Mannschaft Sp.
+0.858025	Müller, Jenny 0 18:55.7 59.5 Stahl Schmiedeberg 3.	Müller, Jenny 14:59,9 0 SG Stahl Schmiedeberg 3.
+0.857778	Leasingfonds GmbH & Col. Deutschland 2 KG H.F.S.	Leasingfonds GmbH & Co. Deutschland 6 KG H.F.S.
+0.857664	WK ) Kohlscheider SC 14660 Delphin Eschweiler 13623 SG Erkelenz-Hückelh. 13278 Wfr.	WK ) Kohlscheider SC 7976 SG Erkelenz-Hückelh. 7147 Delphin Eschweiler 7000 Wfr.
+0.857664	WK ) Kohlscheider SC 14660 Delphin Eschweiler 13623 SG Erkelenz-Hückelh. 13278 Wfr.	WK ) Kohlscheider SC 5704 SG Erkelenz-Hückelh. 5008 Delphin Eschweiler 4956 Wfr.
+0.857664	WK ) Kohlscheider SC 14660 Delphin Eschweiler 13623 SG Erkelenz-Hückelh. 13278 Wfr.	WK ) Kohlscheider SC 7173 SG Erkelenz-Hückelh. 6453 Delphin Eschweiler 6101 Wfr.
+0.857664	WK ) Kohlscheider SC 14660 Delphin Eschweiler 13623 SG Erkelenz-Hückelh. 13278 Wfr.	WK ) Kohlscheider SC 9386 Delphin Eschweiler 8369 SG Erkelenz-Hückelh. 8290 Wfr.
+0.857664	WK ) Kohlscheider SC 14660 Delphin Eschweiler 13623 SG Erkelenz-Hückelh. 13278 Wfr.	WK ) Kohlscheider SC 8394 Delphin Eschweiler 7509 SG Erkelenz-Hückelh. 7378 Wfr.
+0.857664	WK ) Kohlscheider SC 15991 Delphin Eschweiler 14740 SG Erkelenz-Hückelh. 14405 Wfr.	WK ) Kohlscheider SC 7976 SG Erkelenz-Hückelh. 7147 Delphin Eschweiler 7000 Wfr.
+0.857664	WK ) Kohlscheider SC 15991 Delphin Eschweiler 14740 SG Erkelenz-Hückelh. 14405 Wfr.	WK ) Kohlscheider SC 5704 SG Erkelenz-Hückelh. 5008 Delphin Eschweiler 4956 Wfr.
+0.857664	WK ) Kohlscheider SC 15991 Delphin Eschweiler 14740 SG Erkelenz-Hückelh. 14405 Wfr.	WK ) Kohlscheider SC 7173 SG Erkelenz-Hückelh. 6453 Delphin Eschweiler 6101 Wfr.
+0.857664	WK ) Kohlscheider SC 15991 Delphin Eschweiler 14740 SG Erkelenz-Hückelh. 14405 Wfr.	WK ) Kohlscheider SC 9386 Delphin Eschweiler 8369 SG Erkelenz-Hückelh. 8290 Wfr.
+0.857664	WK ) Kohlscheider SC 15991 Delphin Eschweiler 14740 SG Erkelenz-Hückelh. 14405 Wfr.	WK ) Kohlscheider SC 8394 Delphin Eschweiler 7509 SG Erkelenz-Hückelh. 7378 Wfr.
+0.857664	WK ) Kohlscheider SC 7976 SG Erkelenz-Hückelh. 7147 Delphin Eschweiler 7000 Wfr.	WK ) Kohlscheider SC 12161 Delphin Eschweiler 10991 SG Erkelenz-Hückelh. 10870 Wfr.
+0.857664	WK ) Kohlscheider SC 7976 SG Erkelenz-Hückelh. 7147 Delphin Eschweiler 7000 Wfr.	WK ) Kohlscheider SC 12508 Delphin Eschweiler 11383 SG Erkelenz-Hückelh. 11378 Wfr.
+0.857664	WK ) Kohlscheider SC 7976 SG Erkelenz-Hückelh. 7147 Delphin Eschweiler 7000 Wfr.	WK ) Kohlscheider SC 11731 Delphin Eschweiler 10454 SG Erkelenz-Hückelh. 10310 Wfr.
+0.857664	WK ) Kohlscheider SC 12161 Delphin Eschweiler 10991 SG Erkelenz-Hückelh. 10870 Wfr.	WK ) Kohlscheider SC 5704 SG Erkelenz-Hückelh. 5008 Delphin Eschweiler 4956 Wfr.
+0.857664	WK ) Kohlscheider SC 12161 Delphin Eschweiler 10991 SG Erkelenz-Hückelh. 10870 Wfr.	WK ) Kohlscheider SC 7173 SG Erkelenz-Hückelh. 6453 Delphin Eschweiler 6101 Wfr.
+0.857664	WK ) Kohlscheider SC 12161 Delphin Eschweiler 10991 SG Erkelenz-Hückelh. 10870 Wfr.	WK ) Kohlscheider SC 9386 Delphin Eschweiler 8369 SG Erkelenz-Hückelh. 8290 Wfr.
+0.857664	WK ) Kohlscheider SC 12161 Delphin Eschweiler 10991 SG Erkelenz-Hückelh. 10870 Wfr.	WK ) Kohlscheider SC 8394 Delphin Eschweiler 7509 SG Erkelenz-Hückelh. 7378 Wfr.
+0.857664	WK ) Kohlscheider SC 12508 Delphin Eschweiler 11383 SG Erkelenz-Hückelh. 11378 Wfr.	WK ) Kohlscheider SC 5704 SG Erkelenz-Hückelh. 5008 Delphin Eschweiler 4956 Wfr.
+0.857664	WK ) Kohlscheider SC 12508 Delphin Eschweiler 11383 SG Erkelenz-Hückelh. 11378 Wfr.	WK ) Kohlscheider SC 7173 SG Erkelenz-Hückelh. 6453 Delphin Eschweiler 6101 Wfr.
+0.857664	WK ) Kohlscheider SC 12508 Delphin Eschweiler 11383 SG Erkelenz-Hückelh. 11378 Wfr.	WK ) Kohlscheider SC 9386 Delphin Eschweiler 8369 SG Erkelenz-Hückelh. 8290 Wfr.
+0.857664	WK ) Kohlscheider SC 12508 Delphin Eschweiler 11383 SG Erkelenz-Hückelh. 11378 Wfr.	WK ) Kohlscheider SC 8394 Delphin Eschweiler 7509 SG Erkelenz-Hückelh. 7378 Wfr.
+0.857664	WK ) Kohlscheider SC 5704 SG Erkelenz-Hückelh. 5008 Delphin Eschweiler 4956 Wfr.	WK ) Kohlscheider SC 11731 Delphin Eschweiler 10454 SG Erkelenz-Hückelh. 10310 Wfr.
+0.857664	WK ) Kohlscheider SC 7173 SG Erkelenz-Hückelh. 6453 Delphin Eschweiler 6101 Wfr.	WK ) Kohlscheider SC 11731 Delphin Eschweiler 10454 SG Erkelenz-Hückelh. 10310 Wfr.
+0.857664	WK ) Kohlscheider SC 9386 Delphin Eschweiler 8369 SG Erkelenz-Hückelh. 8290 Wfr.	WK ) Kohlscheider SC 11731 Delphin Eschweiler 10454 SG Erkelenz-Hückelh. 10310 Wfr.
+0.857664	WK ) Kohlscheider SC 11731 Delphin Eschweiler 10454 SG Erkelenz-Hückelh. 10310 Wfr.	WK ) Kohlscheider SC 8394 Delphin Eschweiler 7509 SG Erkelenz-Hückelh. 7378 Wfr.
+0.857466	Die Beitragsstabilität ist aus Kundensicht das zentrale Qualitätsmerkmal eines privaten Krankenversicherungsunternehmens.	Beitragsstabilität ist aus Kundensicht das zentrale Qualitätsmerkmal eines privaten Krankenversicherungsunternehmens.
+0.857345	Inhalt Tourenübersicht Fotogalerie Profilübersicht Tag 1. Tag 3. Tag 4.	Inhalt Tourenübersicht Fotogalerie Profilübersicht Tag 2.
+0.855799	Tabelle-Stadtklasse A-Jugend B1-Jugend B2-Jugend C1-Jugend C2-Jugend C3-Jugend D1-Jugend D2-Jugend D3-Jugend E1-Jugend E2-Jugend E3-Jugend F1-Jugend F2-Jugend Platz Mannschaft Sp.	Tabelle Stadtliga A-Jugend B1-Jugend B2-Jugend C1-Jugend C2-Jugend C3-Jugend D1-Jugend D2-Jugend D3-Jugend E1-Jugend E2-Jugend E3-Jugend F1-Jugend F2-Jugend Platz Mannschaft Sp.
+0.854631	Information - Weinanbaugebiete Ahr Baden Franken Hessische Bergstrasse Mosel-Saar-Ruwer Mittelrhein Nahe Pfalz Rheingau Rheinhessen Sachsen Saale-Unstrut Würtemberg Rheinhessenwein e.V.	Information - Weinanbaugebiete Ahr Baden Franken Hessische Bergstrasse Mosel-Saar-Ruwer Mittelrhein Nahe Pfalz Rheingau Rheinhessen Sachsen Saale-Unstrut Würtemberg Mosel-Saar-Ruwer Wein e.V.
+0.853529	Information - Weinanbaugebiete Ahr Baden Franken Hessische Bergstrasse Mosel-Saar-Ruwer Mittelrhein Nahe Pfalz Rheingau Rheinhessen Sachsen Saale-Unstrut Würtemberg Mittelrhein-Wein e.V.	Information - Weinanbaugebiete Ahr Baden Franken Hessische Bergstrasse Mosel-Saar-Ruwer Mittelrhein Nahe Pfalz Rheingau Rheinhessen Sachsen Saale-Unstrut Würtemberg Mosel-Saar-Ruwer Wein e.V.
+0.852941	Dienstag, 26.5.98, 21 Uhr, Große Galerie.	Nr. 6: Dienstag, 6.7.99, 21 Uhr, Große Galerie.
+0.852941	Nr. 6: Dienstag, 6.7.99, 21 Uhr, Große Galerie.	Dienstag, 20.1.98, 21 Uhr, Große Galerie.
+0.852941	Nr. 6: Dienstag, 6.7.99, 21 Uhr, Große Galerie.	Dienstag, 19.1.99, 21 Uhr, Große Galerie.
+0.852273	Zurück zum Albumindex Titel: F-Trainer1vieleBalls Photograph/Künstler: Freizeitvolleyball Berlin e.V.	Zurück zum Albumindex Titel: Acenders Photograph/Künstler: Freizeitvolleyball Berlin e.V.
+0.852273	Zurück zum Albumindex Titel: F-Trainer1vieleBalls Photograph/Künstler: Freizeitvolleyball Berlin e.V.	Zurück zum Albumindex Titel: Megabyte Photograph/Künstler: Freizeitvolleyball Berlin e.V.
+0.852273	Zurück zum Albumindex Titel: F-Trainer1vieleBalls Photograph/Künstler: Freizeitvolleyball Berlin e.V.	Zurück zum Albumindex Titel: SG_Stern Photograph/Künstler: Freizeitvolleyball Berlin e.V.
+0.852	Sprühen Sie ein Anti-Schimmel Spray auf die Dichtungen der Duschwanne.	Sprühen Sie ein Anti-Schimmel Spray auf die Dichtungen der Duschwanne. 13.
+0.852	Unser Angebot: Diagnosegeräte Blutdruck Blutdruckmeßgeräte Stethoskope Medizintechnik zu günstigen Preisen deutscher Markenhersteller.	Unser Angebot: Blutdruck Blutdruckmeßgeräte Stethoskope Diagnosegeräte Medizintechnik zu günstigen Preisen deutscher Markenhersteller.
+0.85102	Dissertation A und B an der Juristischen Hochschule des Ministeriums für Staatssicherheit, Potsdam 1975 (Vertrauliche Verschlußsache, 452 Seiten).	Dissertation B an der Juristischen Hochschule des Ministeriums für Staatssicherheit, Potsdam 1974 (Vertrauliche Verschlußsache, 529 Seiten).
+0.85102	Dissertation A und B an der Juristischen Hochschule des Ministeriums für Staatssicherheit, Potsdam 1979 (Vertrauliche Verschlußsache, 806 Seiten).	Dissertation B an der Juristischen Hochschule des Ministeriums für Staatssicherheit, Potsdam 1974 (Vertrauliche Verschlußsache, 529 Seiten).
+0.850877	Lagergelder, Kosten der Beaufsichtigung und Instandhaltung, Versicherungsprämien, Provisionen, Rechtsanwalts- und Prozesskosten).	Lagergelder, Kosten der Beaufsichtigung und Instandhaltung, Versicherungsprämien, Provisionen, Rechtsanwalts- und Prozeßkosten).
+0.850649	Bei Günther Jauchs Quiz "Wer wird Millionär?"	Günther Jauchs RTL-Quiz "Wer wird Millionär?"
+0.85034	Hierzu zÃ¤hlen mit Sicherheit Neuroleptica, tricyclische Antidepressiva, Serotoninantagonisten, Benzodiazepine mit mehr als 24 Stunden Halbwertzeit, und Antikonvulsiva.	Hierzu zÃ¤hlen mit Sicherheit Neuroleptica, tricyclische Antidepressiva, Serotoninantagonisten, Benzodiazepine mit mehr als 24 Stunden Halbwertzeit, und Antikonvulsiva.
+0.85034	Hierzu zÃ¤hlen mit Sicherheit Neuroleptica, tricyclische Antidepressiva, Serotoninantagonisten, Benzodiazepine mit mehr als 24 Stunden Halbwertzeit, und Antikonvulsiva.	Hierzu zÃ¤hlen mit Sicherheit Neuroleptica, tricyclische Antidepressiva, Serotoninantagonisten, Benzodiazepine mit mehr als 24 Stunden Halbwertzeit, und Antikonvulsiva.
+0.85034	Hierzu zÃ¤hlen mit Sicherheit Neuroleptica, tricyclische Antidepressiva, Serotoninantagonisten, Benzodiazepine mit mehr als 24 Stunden Halbwertzeit, und Antikonvulsiva.	Hierzu zÃ¤hlen mit Sicherheit Neuroleptica, tricyclische Antidepressiva, Serotoninantagonisten, Benzodiazepine mit mehr als 24 Stunden Halbwertzeit, und Antikonvulsiva.
+0.850282	Zurück zum Albumindex Titel: BionicSix Photograph/Künstler: Freizeitvolleyball Berlin e.V.	Zurück zum Albumindex Titel: F-Trainer1vieleBalls Photograph/Künstler: Freizeitvolleyball Berlin e.V.
+0.85	WK ) Kohlscheider SC 14660 Delphin Eschweiler 13623 SG Erkelenz-Hückelh. 13278 Wfr.	WK ) Kohlscheider SC 15991 Delphin Eschweiler 14740 SG Erkelenz-Hückelh. 14405 Wfr.
+0.85	WK ) Kohlscheider SC 14660 Delphin Eschweiler 13623 SG Erkelenz-Hückelh. 13278 Wfr.	WK ) Kohlscheider SC 12161 Delphin Eschweiler 10991 SG Erkelenz-Hückelh. 10870 Wfr.
+0.85	WK ) Kohlscheider SC 14660 Delphin Eschweiler 13623 SG Erkelenz-Hückelh. 13278 Wfr.	WK ) Kohlscheider SC 12508 Delphin Eschweiler 11383 SG Erkelenz-Hückelh. 11378 Wfr.
+0.85	WK ) Kohlscheider SC 14660 Delphin Eschweiler 13623 SG Erkelenz-Hückelh. 13278 Wfr.	WK ) Kohlscheider SC 11731 Delphin Eschweiler 10454 SG Erkelenz-Hückelh. 10310 Wfr.
+0.85	WK ) Kohlscheider SC 15991 Delphin Eschweiler 14740 SG Erkelenz-Hückelh. 14405 Wfr.	WK ) Kohlscheider SC 12161 Delphin Eschweiler 10991 SG Erkelenz-Hückelh. 10870 Wfr.
+0.85	WK ) Kohlscheider SC 15991 Delphin Eschweiler 14740 SG Erkelenz-Hückelh. 14405 Wfr.	WK ) Kohlscheider SC 12508 Delphin Eschweiler 11383 SG Erkelenz-Hückelh. 11378 Wfr.
+0.85	WK ) Kohlscheider SC 15991 Delphin Eschweiler 14740 SG Erkelenz-Hückelh. 14405 Wfr.	WK ) Kohlscheider SC 11731 Delphin Eschweiler 10454 SG Erkelenz-Hückelh. 10310 Wfr.
+0.85	WK ) Kohlscheider SC 12161 Delphin Eschweiler 10991 SG Erkelenz-Hückelh. 10870 Wfr.	WK ) Kohlscheider SC 12508 Delphin Eschweiler 11383 SG Erkelenz-Hückelh. 11378 Wfr.
+0.85	WK ) Kohlscheider SC 12161 Delphin Eschweiler 10991 SG Erkelenz-Hückelh. 10870 Wfr.	WK ) Kohlscheider SC 11731 Delphin Eschweiler 10454 SG Erkelenz-Hückelh. 10310 Wfr.
+0.85	WK ) Kohlscheider SC 12508 Delphin Eschweiler 11383 SG Erkelenz-Hückelh. 11378 Wfr.	WK ) Kohlscheider SC 11731 Delphin Eschweiler 10454 SG Erkelenz-Hückelh. 10310 Wfr.
+0.85	In: Staatsinstitut für Schulpädagogik und Bildungsforschung, Abt. Berufliche Schulen (Hrsg.): Arbeitsbericht Nr. 258.	In: Staatsinstitut für Schulpädagogik und Bildungsforschung, Abt. Berufliche Schulen (Hrsg.): Arbeitsbericht Nr. 271.
+0.848958	Gebäck Tätig im Service-, Technologie- und Produktionssektor und strebt eine weltweite Führungsposition an.	Gebäck - Tätig im Service-, Technologie- und Produktionssektor und strebt eine weltweite Führungsposition an.
+0.848837	Als Hauptfächer gelten Mathematik, Englisch, Deutsch und Gesellschaftslehre.	Hauptfächer sind Deutsch, Englisch, Mathematik und Gesellschaftslehre.
+0.848837	Gründung eines Eigenbetriebes "Iserlohner Stadtbetriebe"; hier: Grundsatzentscheidung DS 6/1114 5.	Gründung eines Eigenbetriebes "Iserlohner Stadtbetriebe"; hier: Grundsatzentscheidung DS 6/1114 4.
+0.848624	Fabrikat: Laing Typ S5-36/400 B Artikel-Nr.: 10 00 245 Beschreibung: Wartungsfreie Naßläufer-Umwälzpumpe in Inlinebauweise.	Fabrikat: Laing Typ S6-36/400 B Artikel-Nr.: 10 00 320 Beschreibung: Wartungsfreie Naßläufer-Umwälzpumpe in Inlinebauweise.
+0.848485	Samoa - Aktuelles 1 Haben Sie noch Fragen?	Aktuelles Kontakt Haben Sie noch Fragen?
+0.847826	Migräneprophylaktika der ersten Wahl sind die Betablocker Metoprolol und Propranolol und der Calciumantagonist Flunarizin ().	Migräneprophylaktika der ersten Wahl sind die Betablocker Metoprolol und Propranolol und der Calciumantagonist Flunarizin (&rsaquo;&rsaquo;).
+0.847826	Migräneprophylaktika der ersten Wahl sind die Betablocker Metoprolol und Propranolol und der Calciumantagonist Flunarizin.	Migräneprophylaktika der ersten Wahl sind die Betablocker Metoprolol und Propranolol und der Calciumantagonist Flunarizin (&rsaquo;&rsaquo;).
+0.847826	Evangelische Heimstiftung Pfalz Heilpädagogium Schillerhain Kirchheimbolanden - HPWG Adler Diese Seite besteht aus Frames!	Evangelische Heimstiftung Pfalz - Heilpädagogium Schillerhain Kirchheimbolanden Diese Seite besteht aus Frames!
+0.847222	Bisher 431 Downloads Ein schöner Aushang!	Bisher 870 Downloads Ein lustiger Aushang!
+0.847222	Aktuelles Heft Diese Seite verwendet Frames.	Aktuelles Diese Seite verwendet Frames.
+0.846821	Gründung eines Eigenbetriebes "Iserlohner Stadtbetriebe"; hier: Grundsatzentscheidung DS 6/1114 5.	Gründung eines Eigenbetriebes "Iserlohner Stadtbetriebe"; hier: Grundsatzentscheidung DS 6/1114 24.
+0.846821	Gründung eines Eigenbetriebes "Iserlohner Stadtbetriebe"; hier: Grundsatzentscheidung DS 6/1114 4.	Gründung eines Eigenbetriebes "Iserlohner Stadtbetriebe"; hier: Grundsatzentscheidung DS 6/1114 24.
+0.846774	Dissertation A und B an der Juristischen Hochschule des Ministeriums für Staatssicherheit, Potsdam 1975 (Vertrauliche Verschlußsache, 452 Seiten).	Dissertation A und B an der Juristischen Hochschule des Ministeriums für Staatssicherheit, Potsdam 1979 (Vertrauliche Verschlußsache, 806 Seiten).
+0.846369	Zurück zum Albumindex Titel: F-Trainer1vieleBalls Photograph/Künstler: Freizeitvolleyball Berlin e.V.	Zurück zum Albumindex Titel: Netzfischer Photograph/Künstler: Freizeitvolleyball Berlin e.V.
+0.846369	Zurück zum Albumindex Titel: F-Trainer1vieleBalls Photograph/Künstler: Freizeitvolleyball Berlin e.V.	Zurück zum Albumindex Titel: Birkenheide 2 Photograph/Künstler: Freizeitvolleyball Berlin e.V.
+0.845455	Childrens Theater Festival USA-Pittsburgh Schneewittchen 19.	Childrens Theater Festival USA-Pittsburgh Schneewittchen 15.
+0.845455	Fabrikat: Laing Typ S5-58/400 BT Artikel-Nr.: 10 00 301 Beschreibung: Wartungsfreie Naßläufer-Umwälzpumpe in Inlinebauweise.	Fabrikat: Laing Typ S5-36/400 B Artikel-Nr.: 10 00 245 Beschreibung: Wartungsfreie Naßläufer-Umwälzpumpe in Inlinebauweise.
+0.845455	Fabrikat: Laing Typ S5-58/400 BT Artikel-Nr.: 10 00 301 Beschreibung: Wartungsfreie Naßläufer-Umwälzpumpe in Inlinebauweise.	Fabrikat: Laing Typ S6-36/400 B Artikel-Nr.: 10 00 320 Beschreibung: Wartungsfreie Naßläufer-Umwälzpumpe in Inlinebauweise.
+0.845455	Fabrikat: Laing Typ S6-61/400 BT Artikel-Nr.: 10 00 331 Beschreibung: Wartungsfreie Naßläufer-Umwälzpumpe in Inlinebauweise.	Fabrikat: Laing Typ S5-36/400 B Artikel-Nr.: 10 00 245 Beschreibung: Wartungsfreie Naßläufer-Umwälzpumpe in Inlinebauweise.
+0.845455	Fabrikat: Laing Typ S6-61/400 BT Artikel-Nr.: 10 00 331 Beschreibung: Wartungsfreie Naßläufer-Umwälzpumpe in Inlinebauweise.	Fabrikat: Laing Typ S6-36/400 B Artikel-Nr.: 10 00 320 Beschreibung: Wartungsfreie Naßläufer-Umwälzpumpe in Inlinebauweise.
+0.844483	Zurück zum Albumindex Titel: U40 Photograph/Künstler: Freizeitvolleyball Berlin e.V.	Zurück zum Albumindex Titel: Acenders Photograph/Künstler: Freizeitvolleyball Berlin e.V.
+0.844483	Zurück zum Albumindex Titel: U40 Photograph/Künstler: Freizeitvolleyball Berlin e.V.	Zurück zum Albumindex Titel: Megabyte Photograph/Künstler: Freizeitvolleyball Berlin e.V.

@@ -1,0 +1,17 @@
+Jun 09, 2015 12:07:42 PM main.Main main
+INFO: read configs
+
+Get sentences from database deu_web_2002_1M
+Preprocessing Sentences
+Jun 09, 2015 12:11:48 PM main.Main main
+INFO: Get sentences and sentence preprocessing took 245723 ms.
+Cleaning word_frequency table in database deu_web_2002_1M
+Calculate word list
+569006 words with only a single occurrence removed.
+WordCount finished with 1000000 sentences processed and 290298 words found
+Jun 09, 2015 12:11:55 PM main.Main main
+INFO: Word count calculation took 6567 ms.
+Populate word_frequency table in database deu_web_2002_1M. Be patient...
+Jun 09, 2015 12:15:33 PM main.Main main
+INFO: Populating to word_count table took 218727 ms.
+Bye

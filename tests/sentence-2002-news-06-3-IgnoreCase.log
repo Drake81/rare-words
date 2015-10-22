@@ -1,0 +1,48 @@
+Jun 13, 2015 9:44:56 AM main.Main main
+INFO: read configs
+
+Reduce word list to 0.6
+Finding rare words ... with confidence function
+	Get word frequencies
+	Intermediate result: Lower confidence interval 3; Upper confidence interval 230
+
+Jun 13, 2015 9:45:00 AM main.Main main
+INFO: Reduce to rare words took 2984 ms.
+Get sentences from database deu_news_2002_3M
+
+Preprocessing Sentences
+Jun 13, 2015 9:57:59 AM main.Main main
+INFO: Get sentences and sentence preprocessing took 779205 ms.
+Cleaning sentence_similarity table in database deu_news_2002_3M
+Calculating similarities for deu_news_2002_3M with RareWords in mind... 
+Calculate 161511145425 similarities between 568351 Sentences
+
+
+0% calculated
+5% calculated
+10% calculated
+15% calculated
+20% calculated
+25% calculated
+30% calculated
+35% calculated
+40% calculated
+45% calculated
+50% calculated
+55% calculated
+60% calculated
+65% calculated
+70% calculated
+75% calculated
+80% calculated
+85% calculated
+90% calculated
+95% calculated
+100% calculated
+Jun 14, 2015 8:32:53 PM main.Main main
+INFO: Similarity calculation took 124485704 ms.
+Populate sentence_similarity table in database deu_news_2002_3M. Be patient...
+Jun 14, 2015 8:32:56 PM main.Main main
+INFO: Populating to similarity table took 3363 ms.
+
+Bye
